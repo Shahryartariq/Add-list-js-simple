@@ -1,0 +1,17 @@
+.Form_main{
+    text-align: center;
+    margin: 2rem;
+}
+
+.Form_main input{
+    padding: 0.8rem 1.6rem;
+    width: 30%;
+    border: 2px solid black;
+    outline: none;
+}
+.Form_main button{
+    padding: 0.8rem 1.6rem;
+    border: 2px solid black;
+    border-left: none;
+    cursor: pointer;
+}

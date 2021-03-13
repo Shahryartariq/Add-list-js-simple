@@ -1,0 +1,10 @@
+.Goals_list ul{
+    list-style: none;
+}
+
+.Goals_list li{
+    margin: 2rem;
+    padding: 20px;
+    border: 2px solid #ccc;
+    font-size: 1.6rem;
+}
